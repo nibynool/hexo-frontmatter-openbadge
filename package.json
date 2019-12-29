@@ -1,11 +1,12 @@
 {
-	"name": "hexo-frontmatter-openbadge",
+	"name": "@nibynool/hexo-frontmatter-openbadge",
 	"description": "A plugin for the Hexo static site generator to add support for open badges in yaml front matter.",
 	"keywords": ["hexo", "yaml", "plugin"],
 	"homepage": "https://software.alphageek.com.au/hexo/frontmatter-openbadge",
 	"version": "0.1.0",
 	"main": "index.js",
 	"author": "Michael Lambert (https://alphageek.com.au)",
+	"license": "MIT",
 	"dependencies": {
 		"moment": "^2.24.0",
 		"sync-request": "^6.1.0",
